@@ -1,5 +1,5 @@
 import os
-import stripe
+#import stripe
 
 from flask import Flask, request, render_template
 
